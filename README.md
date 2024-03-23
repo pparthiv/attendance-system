@@ -17,3 +17,8 @@ python train.py
 ```
 streamlit run main.py
 ```
+
+## Examples
+![Image containing Amitabh Bachchan and Shahrukh Khan](https://github.com/pparthiv/attendance-system/blob/main/examples/test_1.png)
+![Image containing Amitabh Bachchan, Shahrukh Khan, and Mukesh Ambani](https://github.com/pparthiv/attendance-system/blob/main/examples/test_2.png)
+![Image containing Narayana Murthy and Mukesh Ambani](https://github.com/pparthiv/attendance-system/blob/main/examples/test_3.png)

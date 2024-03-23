@@ -1,3 +1,5 @@
+# Attendance System
+Made using Streamlit and face-recognition module
 ## Install on your local device
 ```
 pip install -r requirements. txt
